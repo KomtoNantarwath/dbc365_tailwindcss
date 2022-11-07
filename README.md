@@ -1,1 +1,1 @@
-# business Central dynamics 365 x Tailwindcss
+# Business Central Dynamics 365 x Tailwindcss
