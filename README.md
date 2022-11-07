@@ -1,2 +1,1 @@
-# dbc365_tailwindcss
-businesscentral x Tailwindcss
+# businesscentral dynamics x Tailwindcss
